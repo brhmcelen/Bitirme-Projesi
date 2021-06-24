@@ -6,7 +6,7 @@
 
 
 String agAdi = "patates";                 //Ağımızın adını buraya yazıyoruz.    
-String agSifresi = "gizem1912325990348";           //Ağımızın şifresini buraya yazıyoruz.
+String agSifresi = "xxxx";           //Ağımızın şifresini buraya yazıyoruz.
 
 
 
